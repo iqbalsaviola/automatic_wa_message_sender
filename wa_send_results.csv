@@ -1,0 +1,27 @@
+name,number,status,error
+testwrongnumber,62123123123,Failed,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//span[@data-icon=""send""]""}
+  (Session info: chrome=135.0.7049.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010dcc92c8 chromedriver + 6197960
+1   chromedriver                        0x000000010dcc08ea chromedriver + 6162666
+2   chromedriver                        0x000000010d745de0 chromedriver + 417248
+3   chromedriver                        0x000000010d797797 chromedriver + 751511
+4   chromedriver                        0x000000010d7979b1 chromedriver + 752049
+5   chromedriver                        0x000000010d7e79b4 chromedriver + 1079732
+6   chromedriver                        0x000000010d7bd9ed chromedriver + 907757
+7   chromedriver                        0x000000010d7e4cdb chromedriver + 1068251
+8   chromedriver                        0x000000010d7bd793 chromedriver + 907155
+9   chromedriver                        0x000000010d789b25 chromedriver + 695077
+10  chromedriver                        0x000000010d78a791 chromedriver + 698257
+11  chromedriver                        0x000000010dc85cc0 chromedriver + 5921984
+12  chromedriver                        0x000000010dc89bb1 chromedriver + 5938097
+13  chromedriver                        0x000000010dc60004 chromedriver + 5767172
+14  chromedriver                        0x000000010dc8a5db chromedriver + 5940699
+15  chromedriver                        0x000000010dc4e704 chromedriver + 5695236
+16  chromedriver                        0x000000010dcae0c8 chromedriver + 6086856
+17  chromedriver                        0x000000010dcae290 chromedriver + 6087312
+18  chromedriver                        0x000000010dcc04b1 chromedriver + 6161585
+19  libsystem_pthread.dylib             0x00007ff81984f1d3 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81984abd3 thread_start + 15
+"
+Iqbal,6281330469005,Success,
